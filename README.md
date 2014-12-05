@@ -1,3 +1,39 @@
+
+## Initial Note
+
+Each R script file (plot1.R to plot4.R) reproduces completely the corresponding plot (plot1.png to plot4.png) as requested in this course project and has two sections:
+
+<ol>
+<li>Preparing data set for all plots.</li>
+<li>Plotting data - Plot 1 to 4.</li>
+</ol>
+
+The first section is common to all scripts and could have been separated to a different R script and called from each R script for the individual plots. This option was not followed to facilitate peer evaluation and to follow more closely the instructions given, in particular:
+
+`"Your code file should include code for reading the data so that the plot can be fully reproduced."`
+
+#### Information submitted for the Course Project
+
+        ========================================================================
+        Information                             File
+        ========================================================================
+        Required information:
+
+        1) Plots
+                Plot 1                          plot1.png
+                Plot 2                          plot2.png
+                Plot 3                          plot3.png
+                Plot 4                          plot4.png
+        2) R scripts                            
+                R script for Plot 1             plot1.R
+                R script for Plot 2             plot2.R
+                R script for Plot 3             plot3.R
+                R script for Plot 4             plot4.R
+                
+        ========================================================================
+
+
+
 ## Introduction
 
 This assignment uses data from
